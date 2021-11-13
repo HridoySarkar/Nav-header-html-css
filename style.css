@@ -45,9 +45,4 @@ a.active:hover{
     color: rgb(184, 184, 184);
     transition: 0.5s;
 }
-/*nav .burger{
-    position: relative;
-    top: -65px;
-    cursor: pointer;
-}
-*/
+
